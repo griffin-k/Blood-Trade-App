@@ -1,0 +1,52 @@
+[
+    {
+        "name": "The Nishat Hotel",
+        "address": "9A Gulberg III, Mian Mehmood Ali Kasuri Road, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Park Lane Hotel",
+        "address": "107-B/3, M.M Alam Road, Gulberg III, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "The Residency Hotel",
+        "address": "23, Zafar Ali Road, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Pearl Continental Hotel Lahore",
+        "address": "Shahrah-e-Quaid-e-Azam, The Mall, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Avari Hotel Lahore",
+        "address": "87 Shahrah-e-Quaid-e-Azam, The Mall, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Hospitality Inn Lahore",
+        "address": "25 Egerton Road, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Hotel One Hussain Chowk",
+        "address": "40 Liberty Market, Gulberg III, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Lahore Continental Hotel",
+        "address": "Aziz Bhatti Road, Lahore Cantt, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Hotel Ambassador Lahore",
+        "address": "7-8 Egerton Road, Lahore, Punjab",
+        "timing": "24 hours"
+    },
+    {
+        "name": "Smart Hotel Lahore",
+        "address": "36 Liberty Market, Gulberg III, Lahore, Punjab",
+        "timing": "24 hours"
+    }
+]

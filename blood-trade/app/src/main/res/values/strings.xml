@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Blood Trade</string>
+
+    <string name="real_time_db_firebase">https://blood-trade-38f0b-default-rtdb.firebaseio.com/</string>
+
+    <array name="blood_groups">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </array>
+
+    <array name="donner_groups">
+        <item>Donner</item>
+        <item>Accepter</item>
+    </array>
+
+    <array name="states">
+        <item>Punjab</item>
+        <item>Sindh</item>
+        <item>Khyber Pakhtunkhwa</item>
+        <item>Balochistan</item>
+        <item>Gilgit-Baltistan</item>
+        <item>Azad Kashmir</item>
+        <item>Islamabad Capital Territory</item>
+    </array>
+
+    <array name="Districts_Punjab">
+        <item>Lahore</item>
+        <item>Faisalabad</item>
+        <item>Rawalpindi</item>
+        <item>Gujranwala</item>
+        <item>Multan</item>
+
+    </array>
+
+    <array name="Districts_Sindh">
+        <item>Karachi</item>
+        <item>Hyderabad</item>
+        <item>Sukkur</item>
+        <item>Larkana</item>
+        <item>Mirpur Khas</item>
+
+    </array>
+
+    <array name="Districts_Khyber_Pakhtunkhwa">
+        <item>Peshawar</item>
+        <item>Abbottabad</item>
+        <item>Swat</item>
+        <item>Mardan</item>
+        <item>Nowshera</item>
+
+    </array>
+
+    <array name="Districts_Balochistan">
+        <item>Quetta</item>
+        <item>Gwadar</item>
+        <item>Khuzdar</item>
+        <item>Loralai</item>
+        <item>Chaman</item>
+
+    </array>
+
+    <array name="Districts_Gilgit_Baltistan">
+        <item>Gilgit</item>
+        <item>Skardu</item>
+        <item>Ghanche</item>
+        <item>Diamer</item>
+        <item>Astore</item>
+
+    </array>
+
+    <array name="Districts_Azad_Kashmir">
+        <item>Muzaffarabad</item>
+        <item>Mirpur</item>
+        <item>Bhimber</item>
+        <item>Bagh</item>
+        <item>Kotli</item>
+
+    </array>
+
+    <array name="Districts_Islamabad_Capital_Territory">
+        <item>Islamabad</item>
+    </array>
+
+</resources>
+
+

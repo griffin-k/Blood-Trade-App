@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#FF0000</color> <!-- Red -->
+    <color name="red_variant">#FF5733</color> <!-- Red variant -->
+    <color name="white">#FFFFFF</color> <!-- White -->
+    <color name="black">#000000</color> <!-- Black -->
+</resources>
